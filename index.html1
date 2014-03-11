@@ -1,0 +1,38 @@
+<html>
+    <head>
+     <title>
+ розробка сайта Онучак Аліни
+     </title>
+    </head>
+        <body background ="F:\light.jpg" LINK="#FF0000" VLINK="#00FF00" ALINK="#000F00"> 
+             <a name="Start">розробка сайта Онучак Аліни</a><br>
+			 <center><img src="F:\brick.jpg" border="5" align="left" ></center><pre>
+			 <b>Изображение 1</b></pre>
+			 <br clear="left">
+			 <p><img src="F:\audi.jpg" align="middle" hspace="15" vspace="25" width="580" height="490" tabindex="10">Изображение 2</p>
+			 <HR size="3" width="50%" color="navy">
+			 <UL>
+                <br><img src="F:\33.jpg" align="middle" width="20" height="20">  1 елемент списка
+                <br><img src="F:\33.jpg" align="middle" width="20" height="20">  2 елемент списка
+                <br><img src="F:\33.jpg" align="middle" width="20" height="20">  3 елемент списка
+             </UL>
+			 <br><IMG SRC="F:\frozen.jpg" LOWSRC="F:\frozen2.jpg" width="400" height="300" align="left">
+             <br clear="all"><a href="http://www.nhl.com/"> NHL.com - официальный сайт Национальной хокейной лиги США</a><br>
+			 <br> <a href="lab1.html" >Лабораторная работа №1</a><br>
+	         <br><a href="http://www.nhl.com/"><button width="30" >NHL.COM</button></a> 
+             <br><a href="lab1.html" target="_blank"><input type="button" value="lab_1" ></a><br>
+			 <br><a href=#Start > Переход на начало нашей веб-страницы</a><br>
+             <br><a NAME=”END”> </A> <a href="http://www.myscore.ru/#END" ><font face= "Arial" color = "red" size = "4"> MyScore </font></a>Переход по внешней ссылке
+             <br><p><a href="http://www.myscore.ru/"><img src="F:\score.jpg"> </a> Графическое посылание на сайт MyScore </p>
+             <br><a href="F:\big.jpg"><img src="F:\small.jpg"></a><br> Гиперпосылание, указывающее на изображение <br>
+             <br><a href="C:\Program Files (x86)\Notepad++/notepad++.exe" > Notepad++ - переход к загрузке файла </a> <br>
+             <br><a href="mailto:v.tan4inets@yandex.ru&subject=comments" > Переход на електронный адрес пользователя </a><br>
+             <br><a href="ftp://ftp.log.gov" >Переход на сайт FTP</a><br>
+			 <br><a href="F:/Nick_Thayer_-_Facepalm.mp3"> Nick_Thayer_-_Facepalm</a> <br>
+			 <br><audio src="F:/Nick_Thayer_-_Facepalm.mp3" controls="controls"></audio>
+             <br><a href="Video.avi">Видеозапись</a>
+             <br><video controls="controls">
+             <source src="F:/Video.mp4">
+             </video>
+        </body>
+</html>
